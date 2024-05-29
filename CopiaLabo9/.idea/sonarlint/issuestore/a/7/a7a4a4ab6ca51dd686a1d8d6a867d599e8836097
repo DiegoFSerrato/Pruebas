@@ -1,0 +1,29 @@
+
+
+java:S1192¯"LDefine a constant instead of duplicating this literal "Advertencia" 3 times.(ÍšïÌşÿÿÿÿJ$0de4da05-7a0d-4475-8bac-bb9402450735
+c
+java:S1604L"(Make this anonymous inner class a lambda(øÃ"J$f0629510-a596-47dc-9c88-6c03fbb4aa67
+i
+java:S1604T"(Make this anonymous inner class a lambda(Ç¸•øÿÿÿÿJ$b2c32fe6-62d4-4d00-a625-bc20588b2b1a
+d
+java:S1604\"(Make this anonymous inner class a lambda(€ÌÛçJ$aee4b46c-3c78-4bb5-9806-75eb3bbfec6f
+i
+java:S1604d"(Make this anonymous inner class a lambda(Î™‘³üÿÿÿÿJ$107cd3a5-819f-4b06-b2c8-c25631a3a633
+	java:S116"VRename this field "SpinnerPapa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÔpJ$c6c73157-c6bc-4dd8-a7f9-0253f6998d13
+’	java:S116"WRename this field "SpinnerCarne" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ôõöJ$805e8a2a-f86c-40fe-97ee-d8f56148e52d
+–	java:S116'"VRename this field "TotalPrecio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş·ÛûÿÿÿÿJ$d64012be-4807-4384-8901-a8ee08c5e00d
+Ã
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùÚ ÿÿÿÿÿJ$2efe62a2-0ab6-443f-88e8-f1cfaef85cde
+Ã
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í¤ŞßùÿÿÿÿJ$9aa42cbd-db1b-4f1f-825a-fce100165251
+Ã
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ’‘¡úÿÿÿÿJ$2208b399-64c8-4b07-ac35-3c5764cc19a2
+i
+java:S1659"(Declare "btnLimpiar" on a separate line.(®Û› şÿÿÿÿJ$07592e1a-1650-46c2-9ce2-95b404fa066d
+…
+java:S1659"IDeclare "rbEstudiante" and all following declarations on a separate line.(û÷—J$a24a5ab2-b3d1-4715-a5e3-5a463f5794a6
+€
+java:S1659!"DDeclare "lblPago" and all following declarations on a separate line.(û†‰ÄJ$04c2c586-2060-42e9-aa86-8f900d7a439f
+}	java:S125Î"<This block of commented-out lines of code should be removed.(¢’ËúÿÿÿÿÿJ$550153ae-aa2a-42d3-9b38-f0b3e1515e0f
+p
+java:S1068'"/Remove this unused "TotalPrecio" private field.(Ş·ÛûÿÿÿÿJ$9cdb6372-8955-487c-b82d-d3b57e1ffdf3
